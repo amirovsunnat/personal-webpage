@@ -5,6 +5,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+import { inject } from '@vercel/analytics';
+ 
+inject();
 
 (function() {
   "use strict";
